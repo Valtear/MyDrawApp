@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1057050143816",
+    "project_id": "mydrawapp-443513",
+    "storage_bucket": "mydrawapp-443513.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057050143816:android:37049fd7389218bf0dfc7d",
+        "android_client_info": {
+          "package_name": "com.example.mydrawapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057050143816-r44napobuo9t5tuq8irb3pgijdovv1um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mydrawapp",
+            "certificate_hash": "408c8437ef29702fa696ce3b8dae26f6d9271538"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnU9LUdHKvlF2hZK9JKmFDgIg7jHAVa2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
